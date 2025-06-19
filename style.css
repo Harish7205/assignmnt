@@ -1,0 +1,17 @@
+.q{
+    width: 900px;
+    padding-left: 400px;
+    align-content: center;   background:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+
+ 
+body{
+    margin-top: auto;
+    padding-left: 100px;
+    background-color: blue;
+    
+}
